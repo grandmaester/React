@@ -1,0 +1,9 @@
+.formDiv{
+    border: 1px solid black;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 20px;
+}
+h3{
+    text-align: center;
+}
